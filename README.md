@@ -13,6 +13,10 @@ Repo to try some things
 |:--|
 |:warning: data cell|
 
+**single cell table | no header**
+
+|:warning: cell?|
+
 **single header table | empty data**
 
 |:warning: header cell|
